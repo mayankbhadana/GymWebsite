@@ -1,4 +1,4 @@
-# Practice Project 1
+# GymWebsite
 This is a GymWebsite a practice project from web development course by Code with Harry using html and css. Basic html and css used in making this website.
 
 
